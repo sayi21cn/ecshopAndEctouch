@@ -27,7 +27,7 @@ class BrandController extends AdminController {
         if (!empty($keywords)) {
             $filter['keywords'] = $keywords;
             $condition = 'brand_name like "%' . $keywords . '%" or brand_desc like "%' . $keywords . '%"';
-            $this->assign('keywords', $keywords);
+            $this->assign('keywords', $keywords);          
         }
         //分页
         $filter['page'] = '{page}';

@@ -96,7 +96,7 @@ class IndexController extends AdminController
     // 查看网店
     public function demo()
     {
-        // 生成二维码
+        // 生成二维码        
         $mobile_url = __URL__; // 二维码内容
         $errorCorrectionLevel = 'L'; // 纠错级别：L、M、Q、H
         $matrixPointSize = 7; // 点的大小：1到10
