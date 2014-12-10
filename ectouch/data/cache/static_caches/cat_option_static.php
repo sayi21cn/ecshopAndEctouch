@@ -16,6 +16,22 @@ $data = array (
     'id' => '1',
     'name' => '手机类型',
   ),
+  3 => 
+  array (
+    'cat_id' => '3',
+    'cat_name' => 'GSM手机',
+    'measure_unit' => '台',
+    'parent_id' => '1',
+    'is_show' => '1',
+    'show_in_nav' => '1',
+    'grade' => '4',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '11',
+    'level' => 1,
+    'id' => '3',
+    'name' => 'GSM手机',
+  ),
   4 => 
   array (
     'cat_id' => '4',
@@ -63,22 +79,6 @@ $data = array (
     'level' => 1,
     'id' => '2',
     'name' => 'CDMA手机',
-  ),
-  3 => 
-  array (
-    'cat_id' => '3',
-    'cat_name' => 'GSM手机',
-    'measure_unit' => '台',
-    'parent_id' => '1',
-    'is_show' => '1',
-    'show_in_nav' => '1',
-    'grade' => '4',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '11',
-    'level' => 1,
-    'id' => '3',
-    'name' => 'GSM手机',
   ),
   12 => 
   array (

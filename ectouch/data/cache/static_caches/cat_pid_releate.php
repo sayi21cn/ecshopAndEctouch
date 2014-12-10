@@ -41,6 +41,19 @@ $data = array (
   ),
   3 => 
   array (
+    'cat_id' => '3',
+    'cat_name' => 'GSM手机',
+    'measure_unit' => '台',
+    'parent_id' => '1',
+    'is_show' => '1',
+    'show_in_nav' => '1',
+    'grade' => '4',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '11',
+  ),
+  4 => 
+  array (
     'cat_id' => '4',
     'cat_name' => '3G手机',
     'measure_unit' => '',
@@ -52,7 +65,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => '2',
   ),
-  4 => 
+  5 => 
   array (
     'cat_id' => '5',
     'cat_name' => '双模手机',
@@ -65,7 +78,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 2,
   ),
-  5 => 
+  6 => 
   array (
     'cat_id' => '2',
     'cat_name' => 'CDMA手机',
@@ -77,19 +90,6 @@ $data = array (
     'sort_order' => '50',
     'has_children' => '0',
     'goods_num' => 0,
-  ),
-  6 => 
-  array (
-    'cat_id' => '3',
-    'cat_name' => 'GSM手机',
-    'measure_unit' => '台',
-    'parent_id' => '1',
-    'is_show' => '1',
-    'show_in_nav' => '1',
-    'grade' => '4',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '11',
   ),
   7 => 
   array (
